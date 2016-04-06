@@ -1,0 +1,57 @@
+SIGLA CODICVM
+
+α = Familiae I codices
+
+= Ambrosianus L 99 sup.‚ saec. viii
+= Bernensis 101, saec. ix-x
+C = Leidensis (Voss, lat. F. 74), saec. ix—x
+D = Basileensis F. III. 15, saec. viii ex.
+E = Parisiensis lat. 13028, saec. viii ex.
+F = Weilburgensis (Gymn. bibl. 3), saec. ix
+G = Sangallensis primus (231—232), saec, ix—x
+H = Harleianus lat. 2686, saec. ix ex.
+l= Bruxellensis ΙΙ. 4856, saec. viii eX.
+Bern. = Bernensis 263, saec. ix
+Bern. extr. = Bernensis 61 Ι, saec. viii
+Bermfrag. = Bernensis AA 90 (23), saec. viii
+Col. = Coloniensis 83¹¹, saec. viii ex.
+Eins.srag. = Einsidlensis 365 (42), saec. viii
+Harl. extr. = Harleianus lat. 3034, saec. viii
+Mon. = Monacensis 6250, saec, ix
+alonnafrag. = Monacensis 29051, saec. viii
+Reg. = Coll. Reginae, Oxonii, 320, saec. ix ex.
+Rem. = Remensis 426, saec. ix ex.
+Snng. extr. = sangallensis 913, saec. viii-ix
+Trin. = Coll. S. TrinitatiS, Cantabrigiae, 368, sace. ix
+Voss. 82 = Leidensis (Voss. lat. F. 82), saec. ix
+
+β = Familiae II codices
+
+K = Karolinus Wolfenbuettelanus (Weissenburg. 64),
+saec. vm m.
+
+L = Vaticanus lat. 5763, saec. viii in.
+
+M= Cavensis 23, saec. viii ex.
+
+N = Carolsruhensis (Aug. LVII), saec. viii
+
+O = Sangallensis alter (233), saec. ix in.
+Ρ = Sangallensis tertius (235), saec. ix in.
+
+Par. extr. = Parisiensis lat. 7530, saec. viii ex.
+
+Phill. = Berolinensis (Phillippsianus 1831), saec. viii—ix
+γ = Familiae III codices
+
+T = Toletanus Matritensis (Tol. 15. 8), saec. viii ex. (?)
+U = Escorialensis primus (T. II. 24), saec. ix ex. (?)
+V = Escorialensis alter (δε. Ι. 14), saec. ix (?)
+W= Escorialensis tertius (P. Ι. 7), saec. ix in. (?)
+Χ = Sangallensis quartus (237), saec. ix—x
+Ovet. extr. = Ovetensis Escorialensis (R. ΙΙ. 18), saec. viii
+
+codd. = BCK T , quorum universas lectiones per totum
+opus (cf. ad init. libri XVII), quoties a textu
+discrepant, in apparatu exhibui
+
